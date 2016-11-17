@@ -1,0 +1,29 @@
+{
+  "name": "selenium",
+  "version": "0.0.1",
+  "description": "change ip and do some staff",
+  "main": "google_search.js",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node google_search"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradoxofvalue/selenium.git"
+  },
+  "keywords": [
+    "selenium",
+    "selenium-webdriver",
+    "proxy",
+    "selenium-webdriver/proxy"
+  ],
+  "author": "vadim lavorchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paradoxofvalue/selenium/issues"
+  },
+  "homepage": "https://github.com/paradoxofvalue/selenium#readme"
+}
